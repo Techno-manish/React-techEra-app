@@ -1,0 +1,10 @@
+.failureViewContainer {
+  display: flex;
+  flex-direction: column;
+}
+
+.button {
+  padding: 10px 20px;
+  background-color: #4656a1;
+  color: #fff;
+}

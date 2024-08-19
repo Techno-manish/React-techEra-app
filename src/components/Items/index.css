@@ -1,0 +1,14 @@
+.itemContainer {
+  list-style-type: none;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 10px;
+  width: 200px;
+  height: 100px;
+}
+
+.linkStyle {
+  text-decoration: none;
+  color: black;
+}

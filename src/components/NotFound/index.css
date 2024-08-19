@@ -1,0 +1,9 @@
+.notFoundContainer {
+  display: flex;
+  flex-direction: column;
+}
+
+.notFoundImage {
+  height: 300px;
+  width: 600px;
+}

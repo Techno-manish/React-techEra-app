@@ -1,0 +1,19 @@
+.contentContainer {
+  padding: 20px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.mainHeading {
+  align-self: flex-start;
+  margin-bottom: 0px;
+}
+.courseContainer {
+  /* height: 50vh; */
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: flex-start;
+  margin: 20px;
+}

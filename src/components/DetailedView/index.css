@@ -1,0 +1,20 @@
+.DetailedViewContainer {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  padding: 20px;
+}
+
+.cardContainer {
+  height: 300px;
+  width: 70%;
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.cardDetailsContainer {
+  padding: 10px;
+  padding-right: 30px;
+}
